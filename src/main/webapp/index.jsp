@@ -3,7 +3,7 @@
 <h2>  <!doctype html>
 <html>
 <head>
-<title> RUDRAMURTHY </title>
+<title>  RUDRAMURTHY </title>
 </head>
 <body bgcolor="YELLOW"> 
 <h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO MY WEBSITE </font> </h2>
@@ -12,7 +12,7 @@
 <marquee behavior="scroll" direction="left"> <font size="7" color="red"> <i>welcome to my page</i></font> </marquee>
  <h1> <u> <font size="4" color="blue"> ***********</font> </u></h2>
  
-<p> <i> I AM <strike >RUDRAMURTHY</strike> ALLREDY TOLD ABOVE <br> I BELONGS 2 SIMPLE MENTALITY PERSON </i> </P>
+<p> <i> I AM <strike >RUDRAMURTHY</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> I BELONGS 2 SIMPLE MENTALITY PERSON </i> </P>
 
             <center> <img src="RUDRA.jpg" alt="rudra"> </center>
 <p align="center"> <u> <font color="red" size="5"> Its your friend </font> </u> </p>
