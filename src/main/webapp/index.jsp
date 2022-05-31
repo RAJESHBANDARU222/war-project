@@ -1,5 +1,46 @@
 <html>
 <body>
-<h2>Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat. It supports version control tools, including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase and RTC, and can execute Apache Ant, Apache Maven and sbt based projects as well as arbitrary shell scripts and Windows batch commands.</h2>
+<h2>  <!doctype html>
+<html>
+<head>
+<title> RUDRAMURTHY </title>
+</head>
+<body bgcolor="YELLOW"> 
+<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO MY WEBSITE </font> </h2>
+<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> MY NAME IS RUDRAMURTHY </font> </h2>
+<hr color="blue"><hr color="orange"><hr color="green"><hr color="blue">
+<marquee behavior="scroll" direction="left"> <font size="7" color="red"> <i>welcome to my page</i></font> </marquee>
+ <h1> <u> <font size="4" color="blue"> ***********</font> </u></h2>
+ 
+<p> <i> I AM <strike >RUDRAMURTHY</strike> ALLREDY TOLD ABOVE <br> I BELONGS 2 SIMPLE MENTALITY PERSON </i> </P>
+
+            <center> <img src="RUDRA.jpg" alt="rudra"> </center>
+<p align="center"> <u> <font color="red" size="5"> Its your friend </font> </u> </p>
+
+charector
+<ol>
+<li> honesty </li>
+<li> worholic </li>
+</ol>
+
+<a href="file:///C:/Users/rudramurthy/Desktop/html/rudra.html"> click here to go up </a> <BR/>
+
+<h1> ********************************************************************************</h2>
+<hr font size="8" color="red">
+<table border="3" align="center"> 
+.
+<tr> <td>s.no</td> <td>rudra</td> <td>murthy</td> </tr> 
+<tr> <td>s.no</td> <td>rudra</td> <td>murthy</td> </tr>
+</table>
+
+<form>
+USER NAME <INPUT TYPE="TEXT" NAME="UNAME"/> <BR/> <BR/>
+PASSWORD <INPUT TYPE="PASSWORD" NAME="PW"/> <BR/> <BR/>
+<BUTTON TYPE="SUBMIT" NAME="LOG">LOGIN </BUTTON>
+</form>
+
+
+</body>
+</html></h2>
 </body>
 </html>
