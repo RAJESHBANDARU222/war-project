@@ -5,7 +5,7 @@
 <head>
 <title>  RUDRAMURTHY </title>
 </head>
-<body bgcolor="YELLOW"> 
+<body bgcolor="BLUE"> 
 <h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO MY DEVOPS PROJECT 7 auto  trigger method to trigger jobs using jenkin token and  git webhook v2</font> </h2>
 <h1 align="center"><font face="Tahoma" size="8" color="GREEN"> MY NAME IS RUDRAMURTHY </font> </h2>
 <hr color="blue"><hr color="orange"><hr color="green"><hr color="blue">
