@@ -15,7 +15,7 @@
 <p> <i> I AM <strike >RUDRAMURTHY</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> THIS IS auto trigger PROCESS TO DEPLOY HTML CODE ON TOMCAT USING DEPLOY ON CONATAINEER ON JENKINS </i> </P>
 
             <center> <img src="RUDRA.jpg" alt="rudra"> </center>
-<p align="center"> <u> <font color="red" size="5"> Its your friend </font> </u> </p>
+<p align="center"> <u> <font color="red" size="5"> image Rudramurthy </font> </u> </p>
 
 charector
 <ol>
