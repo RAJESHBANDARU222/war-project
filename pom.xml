@@ -30,7 +30,7 @@
 
   <build>
     <finalName>anusha-warproject</finalName>
-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults 12 (may be moved to parent pom) -->
+    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults 123 (may be moved to parent pom) -->
       <plugins>
         <plugin>
           <artifactId>maven-clean-plugin</artifactId>
