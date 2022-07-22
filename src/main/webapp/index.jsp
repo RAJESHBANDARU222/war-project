@@ -20,7 +20,7 @@
 charector
 <ol>
 <li> honesty </li>
-<li> worholic good </li>
+<li> worholic good good</li>
 </ol>
 
 <a href="file:///C:/Users/rudramurthy/Desktop/html/rudra.html"> click here to go up </a> <BR/>
