@@ -6,7 +6,7 @@
 <title>  RUDRAMURTHY </title>
 </head>
 <body bgcolor="YELLOW"> 
-<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO MY DEVOPS PROJECT 8 auto  trigger method to trigger jobs using jenkin tokens and  git webhook v2</font> </h2>
+<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO MY DEVOPS PROJECT  auto  trigger method to trigger jobs using jenkin tokens and  git webhook AND DEPLOY TO ANOTHER SERVER TOMCAT WEBAPPS</font> </h2>
 <h1 align="center"><font face="Tahoma" size="8" color="GREEN"> MY NAME IS RUDRAMURTHY </font> </h2>
 <hr color="blue"><hr color="orange"><hr color="green"><hr color="blue">
 <marquee behavior="scroll" direction="left"> <font size="7" color="red"> <i>welcome to my Sample  WEBSITE 1</i></font> </marquee>
