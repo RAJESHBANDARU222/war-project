@@ -14,7 +14,7 @@
  
 <p> <i> I AM <strike >CHANDU ROYAL</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> THIS IS auto trigger PROCESS TO DEPLOY HTML CODE ON TOMCAT USING DEPLOY ON CONATAINEER ON JENKINS </i> </P>
 
-            <center> <img src="307011049_812178563529672_2459628110841422210_n.jpg" alt="rudra"> </center>
+            <center> <img src="photo_6300627181562344228_y.jpg" alt="rudra"> </center>
 <p align="center"> <u> <font color="red" size="5"> CHANDU ROYAL</font> </u> </p>
 
 charector
