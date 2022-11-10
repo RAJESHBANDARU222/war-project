@@ -12,9 +12,9 @@
 <marquee behavior="scroll" direction="left"> <font size="7" color="red"> <i>welcome to my CHANDU ROYAL Website</i></font> </marquee>
  <h1> <u> <font size="4" color="blue"> ***********</font> </u></h2>
  
-<p> <i> I AM <strike >CHANDU ROYAL</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> THIS IS auto trigger PROCESS TO DEPLOY HTML CODE ON TOMCAT USING DEPLOY ON CONATAINEER ON JENKINS </i> </P>
+<p> <i> I AM <strike >CHANDU ROYAL</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> THIS IS auto trigger PROCESS TO DEPLOY HTML CODE ON TOMCAT USING DEPLOY ON CONATAINEER ON JENKINS <font color="white"> </i> </P>
 
-            <center> <img src="photo_6300627181562344228_y.jpg" alt="rudra"> </center>
+            <center> <img src="photo_6300627181562344228_y.jpg" alt="chandu"> </center>
 <p align="center"> <u> <font color="red" size="5"> CHANDU ROYAL</font> </u> </p>
 
 charector
@@ -25,17 +25,17 @@ charector
 
 <a href="file:///C:/Users/rudramurthy/Desktop/html/rudra.html"> click here to go up </a> <BR/>
 
-<h1> ********************************************************************************</h2>
+<h1> ********************************************************************************<font color= "white"></h2>
 <hr font size="8" color="red">
 <table border="3" align="center"> 
 .
-<tr> <td>s.no</td> <td>CHANDU</td> <td>ROYAL</td> </tr> 
-<tr> <td>s.no</td> <td>CHANDU</td> <td>ROYAL</td> </tr>
+<tr> <td>s.no<font color= "white"></td> <td>CHANDU<font color="white"></td> <td>ROYAL<font color="white"></td> </tr> 
+<tr> <td>s.no<font color="white"></td> <td>CHANDU<font color="white"></td> <td>ROYAL<font color="white"></td> </tr>
 </table>
 
 <form>
-USER NAME <INPUT TYPE="TEXT" NAME="UNAME"/> <BR/> <BR/>
-PASSWORD <INPUT TYPE="PASSWORD" NAME="PW"/> <BR/> <BR/>
+USER NAME <INPUT TYPE="TEXT" NAME="UNAME"/><font color= "white"> <BR/> <BR/>
+PASSWORD <INPUT TYPE="PASSWORD" NAME="PW"/><font color= "white" <BR/> <BR/>
 <BUTTON TYPE="SUBMIT" NAME="LOG">LOGIN </BUTTON>
 </form>
 
