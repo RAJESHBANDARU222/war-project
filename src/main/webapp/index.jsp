@@ -5,7 +5,7 @@
 <head>
 <title>   CHANDU ROYAL </title>
 </head>
-<body bgcolor="BLUE"> 
+<body bgcolor="black"> 
 <h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO St Ann's College of Engineering and Technology</font> </h2>
 <h1 align="center"><font face="Tahoma" size="8" color="GREEN"> MY NAME IS CHANDU ROYAL MCA </font> </h2>
 <hr color="blue"><hr color="orange"><hr color="green"><hr color="YELLOW">
@@ -29,8 +29,8 @@ charector
 <hr font size="8" color="red">
 <table border="3" align="center"> 
 .
-<tr> <td>s.no</td> <td>rudra</td> <td>murthy</td> </tr> 
-<tr> <td>s.no</td> <td>rudra</td> <td>murthy</td> </tr>
+<tr> <td>s.no</td> <td>CHANDU</td> <td>ROYAL</td> </tr> 
+<tr> <td>s.no</td> <td>CHANDU</td> <td>ROYAL</td> </tr>
 </table>
 
 <form>
