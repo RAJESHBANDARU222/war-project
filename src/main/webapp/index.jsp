@@ -3,19 +3,19 @@
 <h2>  <!doctype html>
 <html>
 <head>
-<title>   BANDARU RAJESH </title>
+<title>   CHANDU ROYAL </title>
 </head>
 <body bgcolor="BLUE"> 
-<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO MY DEVOPS PROJECT  auto  trigger method to trigger jobs using jenkin tokens and  git webhook AND DEPLOY TO ANOTHER SERVER TOMCAT WEBAPPS</font> </h2>
-<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> MY NAME IS BANDARU RAJESH </font> </h2>
-<hr color="blue"><hr color="orange"><hr color="green"><hr color="blue">
-<marquee behavior="scroll" direction="left"> <font size="7" color="red"> <i>welcome to my Sample  WEBSITE 1</i></font> </marquee>
+<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> WELCOME TO St Ann's College of Engineering and Technology</font> </h2>
+<h1 align="center"><font face="Tahoma" size="8" color="GREEN"> MY NAME IS CHANDU ROYAL MCA </font> </h2>
+<hr color="blue"><hr color="orange"><hr color="green"><hr color="YELLOW">
+<marquee behavior="scroll" direction="left"> <font size="7" color="red"> <i>welcome to my CHANDU ROYAL Website</i></font> </marquee>
  <h1> <u> <font size="4" color="blue"> ***********</font> </u></h2>
  
-<p> <i> I AM <strike >BANDARU RAJESH</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> THIS IS auto trigger PROCESS TO DEPLOY HTML CODE ON TOMCAT USING DEPLOY ON CONATAINEER ON JENKINS </i> </P>
+<p> <i> I AM <strike >CHANDU ROYAL</strike> THIS FINAL VERSION OF THE CODE DEPLOYED ON TOMCAT ON 31/05/22 10:36AM <br> THIS IS auto trigger PROCESS TO DEPLOY HTML CODE ON TOMCAT USING DEPLOY ON CONATAINEER ON JENKINS </i> </P>
 
             <center> <img src="307011049_812178563529672_2459628110841422210_n.jpg" alt="rudra"> </center>
-<p align="center"> <u> <font color="red" size="5"> Kavya Rajesh  v1</font> </u> </p>
+<p align="center"> <u> <font color="red" size="5"> CHANDU ROYAL</font> </u> </p>
 
 charector
 <ol>
